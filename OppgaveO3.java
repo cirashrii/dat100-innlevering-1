@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//husk å skrive om kommentarene/printlinene
+
 public class OppgaveO3 {
 
     public static void main(String args[]) {
